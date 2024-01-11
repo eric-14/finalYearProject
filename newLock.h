@@ -1,10 +1,6 @@
 #ifndef NEWLOCK_H
 #define NEWLOCK_H
 #include <Arduino.h>
-
-
-
-
 class Lock{
   
   public:
